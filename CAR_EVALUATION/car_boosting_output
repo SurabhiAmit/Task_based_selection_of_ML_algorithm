@@ -1,0 +1,28 @@
+Tester:     weka.experiment.PairedCorrectedTTester -G 4,5,6 -D 1 -R 2 -S 0.05 -result-matrix "weka.experiment.ResultMatrixPlainText -mean-prec 2 -stddev-prec 2 -col-name-width 0 -row-name-width 25 -mean-width 0 -stddev-width 0 -sig-width 0 -count-width 5 -print-col-names -print-row-names -enum-col-names"
+Analysing:  Percent_correct
+Datasets:   1
+Resultsets: 10
+Confidence: 0.05 (two tailed)
+Sorted by:  -
+Date:       9/16/18, 9:40 PM
+
+
+Dataset                   (1) meta.Fil | (2) meta. (3) meta. (4) meta. (5) meta. (6) meta. (7) meta. (8) meta. (9) meta. (10) meta
+----------------------------------------------------------------------------------------------------------------------------------
+car-weka.filters.supervis(100)   95.60 |   95.16     94.97     94.26     93.95 *   93.09 *   92.26 *   90.49 *   87.56 *   82.94 *
+----------------------------------------------------------------------------------------------------------------------------------
+                               (v/ /*) |   (0/1/0)   (0/1/0)   (0/1/0)   (0/0/1)   (0/0/1)   (0/0/1)   (0/0/1)   (0/0/1)   (0/0/1)
+
+
+Key:
+(1) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 0.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(2) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 10.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(3) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 20.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(4) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 30.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(5) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 40.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(6) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 50.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(7) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 60.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(8) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 70.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(9) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 80.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+(10) meta.FilteredClassifier '-F \"unsupervised.instance.RemovePercentage -P 90.0\" -S 1 -W meta.AdaBoostM1 -- -P 100 -S 1 -I 50 -W trees.J48 -- -C 0.15 -M 3' -4523450618538717400
+

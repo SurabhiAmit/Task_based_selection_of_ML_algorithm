@@ -1,0 +1,54 @@
+Available resultsets
+(1) 1 trees.J48 104 85.950413
+(2) 2 trees.J48 112 92.561983
+(3) 3 trees.J48 104 85.950413
+(4) 4 trees.J48 111 91.735537
+(5) 5 trees.J48 105 86.77686
+(6) 6 trees.J48 105 86.77686
+(7) 7 trees.J48 111 91.735537
+(8) 8 trees.J48 109 90.082645
+(9) 9 trees.J48 113 94.166667
+(10) 10 trees.J48 113 94.166667
+(1) 1 meta.AdaBoostM1 94.214876
+(2) 2 meta.AdaBoostM1 99.173554
+(3) 3 meta.AdaBoostM1 94.214876
+(4) 4 meta.AdaBoostM1 96.694215
+(5) 5 meta.AdaBoostM1 94.214876
+(6) 6 meta.AdaBoostM1 92.561983
+(7) 7 meta.AdaBoostM1 95.867769
+(8) 8 meta.AdaBoostM1 95.041322
+(9) 9 meta.AdaBoostM1 95
+(10) 10 meta.AdaBoostM1 95
+(21) 1 lazy.IBk 104 85.950413
+(22) 2 lazy.IBk 112 92.561983
+(23) 3 lazy.IBk 114 94.214876
+(24) 4 lazy.IBk 116 95.867769
+(25) 5 lazy.IBk 109 90.082645
+(26) 6 lazy.IBk 105 86.77686
+(27) 7 lazy.IBk 108 89.256198
+(28) 8 lazy.IBk 112 92.561983
+(29) 9 lazy.IBk 112 93.333333
+(30) 10 lazy.IBk 116 96.666667
+(31) 1 functions.LibSVM 106 87.603306
+(32) 2 functions.LibSVM 112 92.561983
+(33) 3 functions.LibSVM 105 86.77686
+(34) 4 functions.LibSVM 110 90.909091
+(35) 5 functions.LibSVM 107 88.429752
+(36) 6 functions.LibSVM 106 87.603306
+(37) 7 functions.LibSVM 104 85.950413
+(38) 8 functions.LibSVM 109 90.082645
+(39) 9 functions.LibSVM 105 87.5
+(40) 10 functions.LibSVM 109 90.833333
+(41) 1 functions.MultilayerPerceptron 120 99.173554
+(42) 2 functions.MultilayerPerceptron 120 99.173554
+(43) 3 functions.MultilayerPerceptron 119 98.347107
+(44) 4 functions.MultilayerPerceptron 120 99.173554
+(45) 5 functions.MultilayerPerceptron 115 95.041322
+(46) 6 functions.MultilayerPerceptron 116 95.867769
+(47) 7 functions.MultilayerPerceptron 118 97.520661
+(48) 8 functions.MultilayerPerceptron 120 99.173554
+(49) 9 functions.MultilayerPerceptron 119 99.166667
+(50) 10 functions.MultilayerPerceptron 117 97.5
+
+
+
